@@ -15,7 +15,9 @@ Clean Data
 *Data Wrangling*
 
 No Data Wrangling performed
-https://colab.research.google.com/drive/1uN9wRFNX-EQ4mhKWcsiCng9MtwAIO3KP#scrollTo=5OJX12mkgBVc
+
+  Banana :https://colab.research.google.com/drive/1uN9wRFNX-EQ4mhKWcsiCng9MtwAIO3KP#scrollTo=5OJX12mkgBVc
+  Top_Companies:colab.research.google.com/drive/14UleND8NTMDrVeT19ERqw65GAiPM5GtH#scrollTo=B55yVsTyxalQ
 
 
 
