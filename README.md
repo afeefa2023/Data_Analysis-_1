@@ -17,8 +17,15 @@ Clean Data
 No Data Wrangling performed
 
   Banana :https://colab.research.google.com/drive/1uN9wRFNX-EQ4mhKWcsiCng9MtwAIO3KP#scrollTo=5OJX12mkgBVc
+
+  
   Top_Companies:colab.research.google.com/drive/14UleND8NTMDrVeT19ERqw65GAiPM5GtH#scrollTo=B55yVsTyxalQ
+
+  
   Laptop_analysis : https://colab.research.google.com/drive/1bVsykRvbOVwqDP9-cAdvZXh4dU0qHhFG#scrollTo=B5ru93RN9Pu3
+
+  Car:https://colab.research.google.com/drive/1S8kSMl0846qn0rW_TB2YUKIsAL3UqIrI#scrollTo=dhPyAHGIc1PZ
+
 
 
 
