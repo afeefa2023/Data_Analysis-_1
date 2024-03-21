@@ -25,6 +25,8 @@ No Data Wrangling performed
   Laptop_analysis : https://colab.research.google.com/drive/1bVsykRvbOVwqDP9-cAdvZXh4dU0qHhFG#scrollTo=B5ru93RN9Pu3
 
   Car:https://colab.research.google.com/drive/1S8kSMl0846qn0rW_TB2YUKIsAL3UqIrI#scrollTo=dhPyAHGIc1PZ
+  
+  Online Food Analysis:https://colab.research.google.com/drive/1p74rW8vwNNVHE3ipugI1Db5e6vr-5x-w#scrollTo=_HVjM-S4N_R3&uniqifier=1
 
 
 
