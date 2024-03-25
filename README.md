@@ -28,7 +28,9 @@ No Data Wrangling performed
   
   Online Food Analysis:https://colab.research.google.com/drive/1p74rW8vwNNVHE3ipugI1Db5e6vr-5x-w#scrollTo=_HVjM-S4N_R3&uniqifier=1
 
-  student performance in their studies:https://colab.research.google.com/drive/1K6sEUJYtyw-imNFc8r3rDLSDXBa3ryDX#scrollTo=0hdWeLDujV4q
+  student performance in their studies:https://colab.research.google.com/drive/1K6sEUJYtyw-imNFc8r3rDLSDXBa3ryDX#scrollTo=0hdWeLDujV4
+
+  airline evaluation:https://colab.research.google.com/drive/1OsX3D4FyJXgIEZdV8nMg7UesN7Fc6wVn#scrollTo=QVdFUWc3-7Yo
 
 
 
