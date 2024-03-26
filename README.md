@@ -1,6 +1,7 @@
 # Data_Analysis_1
 
-The data analysis process begins with the collection of a dataset containing information about bananas, which may encompass variables such as production quantities, prices, geographical distribution, and consumption patterns. Following data collection, rigorous cleaning procedures are applied to eliminate duplicates, handle missing values, and ensure data consistency. 
+The data analysis conducted on the dataset revealed significant insights into the underlying trends and patterns. Through exploratory data analysis techniques, key metrics such as distribution, central tendency, and variability were examined, providing a comprehensive understanding of the dataset's characteristics. Furthermore, visualizations such as histograms, scatter plots, and bar charts were utilized to uncover relationships, outliers, and potential correlations among the variables. By applying statistical methods and visualization tools, the analysis shed light on valuable insights, guiding further investigation and decision-making processes.
+
 
 .Data sources:CSV file
 
